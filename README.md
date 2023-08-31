@@ -62,12 +62,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!--
 ### My Twitch!
 <p align="center">
 <a target="_blank" href="https://www.twitch.tv/reydaniels"><img src="https://images-na.ssl-images-amazon.com/images/I/21kRx-CJsUL.png" alt="My Twitch" width="150"></img></a>   
 </p>    
-    
+-->    
 *If you find my work good, consider giving it a :star: or fork-ing to show some :heart:. It helps me stay on track and be motivated.*
 <hr>
 <p align="center">
