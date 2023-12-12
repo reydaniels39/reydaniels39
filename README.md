@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 A software engineer passionate about Back-End Development, Machine Learning, Mobile Development and Videogame Development🎮. I like automating things, finding new ways to do things and improving efficiency and performance. Strong Advocate for 💰 Cryptocurrency 📊, :cloud: Distributed Systems, :new: Innovation, Automation :robot: and AI.
 
 
-- ⚡ *Fun fact:* Im a big Fan of the Alternative Rock Music, Metal, Dance..., and I like Japanese Culture and Hatsune Miku.
+- ⚡ *Fun fact:* Im a big Fan of the Alternative Rock Music, Metal, Dance..., and I like Japanese Culture <!--and Hatsune Miku-->.
 - 🔭 I’m currently working on:
-	- Being a Software Engineering Student at the Autonomous University of Querétaro - Faculty of Informatics. 
-- :bulb: I'm interested in all things Back-End: *Cloud, Machine Learning, App Development and Cryptocurrencys*
+	- Be a Software Engineer looking for a job. 
+- :bulb: I'm interested in all Back-End things: *Cloud, Machine Learning, App Development*
 - 💬 Talk to me about Music 🎵, Videogames 🎮, Movies 🎥, Anime, Memes, anything that interests you.
-- 🌱 I’m currently pursuing *Machine learning*.
+- 🌱 I’m currently pursuing *Back-end & Machine learning*.
 
 ### My skills include
 
